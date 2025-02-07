@@ -5,6 +5,9 @@ const Page = () => {
     <div>Page
       conflict in feature1
     </div>
+      changes in main
+    </div>
+   
   )
 }
 
